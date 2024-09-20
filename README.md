@@ -1,6 +1,8 @@
 # NYU-processor-design-lab-update
 ----------------------------------------
 Terminal output for asking name
+![Terminal Output](https://github.com/BenFeng666/Lab-1/blob/main/Screenshot%202024-09-19%20233205.png)
+
 
 
 
