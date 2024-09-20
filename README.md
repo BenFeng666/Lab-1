@@ -1,6 +1,7 @@
 # NYU-processor-design-lab-update
 ----------------------------------------
-Picture of asking name system
+Terminal output for asking name
+
 
 
 *The paths used by target_sources and target_include_directories are relative, not absolute. What file or folder are they relative to?
